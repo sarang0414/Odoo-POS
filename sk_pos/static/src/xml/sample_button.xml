@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<templates>
+    <t t-name="sk_pos.SkSampleButton" owl="1">
+        <div class="control-button" style="background-color: green; color: white;">
+            <i class="fa fa-superpowers"/>
+            <span>Sample Button</span>
+        </div>
+    </t>
+</templates>
